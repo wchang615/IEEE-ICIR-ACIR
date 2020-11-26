@@ -1,6 +1,6 @@
 # IEEE-ICIR-ACIR
 <p style="margin-left:0%;">
-<img src="./ICIR_Banner2.png" width=70%>
+<img src="./images/ICIR_Banner.png" width=70%>
 </p>
 <h2>Application Competition for Intelligent Reality (ACIR) of <br><a href="https://icir.ieee.org" target=_blank>IEEE International Conference on Intelligent Reality (ICIR)</a></h2>
 <H3>Overview</H3>
