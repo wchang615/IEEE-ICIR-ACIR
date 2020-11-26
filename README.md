@@ -9,7 +9,7 @@ The Application Contest for Intelligent Reality (ACIR) challenges developers to 
 The ACIR Competition is open to anyone interested in Intelligent Reality development – researchers, university students, hobbyists, professionals, or anyone else. 
 
 <H3>Teams </H3>
-You may register as a team (up to five per team) or an individual. 
+You may register as a team (up to five persons per team) or an individual. 
 
 <H3>Instructions</H3>
 Competition participants must meet the following guidelines: 
