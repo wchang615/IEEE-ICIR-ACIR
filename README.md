@@ -48,7 +48,7 @@ Participating teams must submit competition application via <a href="https://doc
 <LI>What operating systems (PC/Mac/etc.) do you plan to use?
 <LI>What development platform and tools/libraries do you plan to implement?
   </OL>
-For any inquiries, please send emails to icir@ieee.org. 
+For any inquiries, please send emails to <a href="mailto:icir@ieee.org">icir@ieee.org</a>. 
   <H3>Important Dates</H3>
   <b>Dec 1, 2020:</b> Submission open for application<br>
   <b>Feb 1, 2021:</b> Due date for application<br>
