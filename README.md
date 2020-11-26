@@ -14,10 +14,10 @@ You may register as a team (up to five per team) or an individual.
 <H3>Instructions</H3>
 Competition participants must meet the following guidelines: 
 <UL>
-<LI>Student must attend an accredited university (for students only)
+<LI>All implementation must be based on the original work.
 <LI>Include AI machine learning techniques and run within VR/AR/MR/XR
 <LI>Be able to run on a cross-platform emulator for evaluation
-<LI>All implementation must be based on the original work.
+<LI>Student must attend an accredited university (for students only)
   <LI>Grant IEEE to post codes and data (if any) under public IEEE-ICIR-ACIR GitHub
   </UL>
   <H3>Evaluation criteria</H3>
