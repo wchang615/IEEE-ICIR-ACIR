@@ -6,7 +6,7 @@
 <H3>Overview</H3>
 The Application Contest for Intelligent Reality (ACIR) challenges developers to create AI machine learning <I>Intelligent Reality</I> (IR) applications to provide realtime decision-making user experience with analytics capability for the immersive (VR/AR/MR/XR) environment.
 <H3>Eligibility </H3>
-The ACIR Competition is open to anyone interested in Intelligent Reality development – researchers, university students, hobbyists, professionals, or anyone else. 
+The ACIR Competition is open to anyone interested in Intelligent Reality development – researchers, university students, hobbyists, or professionals. 
 
 <H3>Teams </H3>
 You may register as a team (up to five persons per team) or an individual. 
