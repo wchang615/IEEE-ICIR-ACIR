@@ -36,7 +36,7 @@ Winners (at the discretion of the Evaluation Team)
   </UL>
   <b>Ranking Points: Accumulated points submitter earned through all competitions </b>
 
-<H3>Competition submission instructions</H3>
+<H3>Application submission instructions</H3>
 Participating teams must submit competition application via <a href="https://docs.google.com/forms/d/1igIJIIobhfGW8YaHFL2_LthQtgTELPsVYbpdG121SBE/viewform?ts=5fc004ff&edit_requested=true">ACIR online system</a> with answers to the following questions:
 <OL>
 <LI>Team Name
@@ -49,6 +49,8 @@ Participating teams must submit competition application via <a href="https://doc
 <LI>What development platform and tools/libraries do you plan to implement?
   </OL>
 For any inquiries, please send emails to <a href="mailto:icir@ieee.org">icir@ieee.org</a>. 
+  <H3>Code/Data submission instructions</H3>
+Forthcoming...
   <H3>Important Dates</H3>
   <b>Dec 1, 2020:</b> Submission open for application<br>
   <b>Feb 1, 2021:</b> Due date for application<br>
