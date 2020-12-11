@@ -14,7 +14,7 @@ You may register as a team (up to five persons per team) or an individual.
 <H3>Instructions</H3>
 Competition participants must meet the following guidelines: 
 <UL>
-<LI>All implementation must be based on the original work.
+<LI>All implementation must be based on the original work (existing or new are acceptable)
 <LI>Include AI machine learning techniques and run within VR/AR/MR/XR
 <LI>Be able to run on a cross-platform emulator for evaluation
 <LI>Student must attend an accredited university (for students only)
